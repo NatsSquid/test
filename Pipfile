@@ -3,11 +3,7 @@ url = "https://pypi.python.org/simple"
 verify_ssl = true
 
 [packages]
-dj-database-url = "*"
-django = "*"
-gunicorn = "*"
-psycopg2 = "*"
-whitenoise = "*"
+tweepy==3.5.0
 
 [requires]
 python_version = "3.6"
